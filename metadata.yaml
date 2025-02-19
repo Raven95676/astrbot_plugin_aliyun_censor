@@ -1,5 +1,5 @@
 name: astrbot_plugin_aliyun_censor
-desc: 为bot启用阿里云内容安全能力
+desc: 为bot启用阿里云内容安全审核
 help: 无
 version: v1.0.0
 author: Raven95676
