@@ -1,0 +1,22 @@
+{
+    "input_censor":{
+        "description": "启用输入内容审核",
+        "type": "bool"
+    },
+    "output_censor":{
+        "description": "启用输出内容审核",
+        "type": "bool"
+    },
+    "censor_endpoint": {
+        "description": "阿里云接入点地址",
+        "type": "string"
+    },
+    "access_key_id": {
+        "description": "阿里云accessKeyId",
+        "type": "string"
+    },
+    "access_key_secret": {
+        "description": "阿里云accessKeySecret",
+        "type": "string"
+    }
+}

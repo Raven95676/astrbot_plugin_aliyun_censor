@@ -1,10 +1,4 @@
-# helloworld
+# astrbot_plugin_aliyun_censor
+为bot启用阿里云内容安全审核
 
-AstrBot 插件模板
-
-A template plugin for AstrBot plugin feature
-
-# 支持
-
-[帮助文档](https://astrbot.soulter.top/center/docs/%E5%BC%80%E5%8F%91/%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91/
-)
+帮助文档参见[阿里云官方文档](https://help.aliyun.com/document_detail/464388.html)，本插件接入的服务为私聊互动内容检测_专业版（chat_detection_pro）
